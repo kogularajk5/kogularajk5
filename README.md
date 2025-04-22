@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Web Dev
 - 📫 Reachable at kogularajk5@gmail.com
 - 😄 Pronouns: He/Him/His (The Natural)
-- ⚡ Fun fact: "I wish I could, but I don't want to" - We-Arent-Talking-Again-If-You-Dont-Know-Who-Said-That
+- ⚡ Humor Reference: "I wish I could, but I don't want to" - We-Arent-Talking-Again-If-You-Dont-Know-Who-Said-That
 
 <!---
 kogularajk5/kogularajk5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
